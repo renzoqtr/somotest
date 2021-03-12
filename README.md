@@ -13,3 +13,6 @@ Just adjust you chromedriver dependency on package.json for your Chrome browser 
 
 Current dependency chromedriver version
 "chromedriver": "88.0.0"
+
+for more reference:
+https://webdriver.io/docs/gettingstarted
