@@ -1,8 +1,8 @@
 # somotest
 
 Framework:
-Webdriverio
-Jasmine
+Webdriverio,
+Jasmine,
 Page Object Pattern
 
 You can start your test suite by using the run command inside somo-test folder:
